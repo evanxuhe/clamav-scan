@@ -6,8 +6,8 @@ clamav-scan
 SpringBoot版本2.1.2
 
 #安装clamd并开启TCP链接
-```telnet 114.116.12.13 3310```
-
+```telnet X.X.X.X 3310```
+X.X.X.X为你的clamd的IP地址
 输入PING
 返回PONG
 则连接成功

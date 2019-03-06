@@ -1,0 +1,4 @@
+clamav:
+  host-name: 114.116.12.13
+  port: 3310
+  timeout: 600000

@@ -1,0 +1,5 @@
+com\pkpm\clamavscan\conf\ClamAVClientConfig.class
+com\pkpm\clamavscan\aop\LogAspect.class
+com\pkpm\clamavscan\conf\ClamavProperties.class
+com\pkpm\clamavscan\ClamavScanApplication.class
+com\pkpm\clamavscan\controller\ClamAVController.class
